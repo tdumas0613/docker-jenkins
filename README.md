@@ -9,4 +9,4 @@ An extension of the official Docker image for Jenkins
     - -p port to access Jenkins at
   - Access at localhost:8080 (or port 8080 at whatever IP Address instance is running at)
   
-  More information can be found at https://github.com/jenkinsci/docker/blob/master/README.md
+  - More information can be found at https://github.com/jenkinsci/docker/blob/master/README.md
